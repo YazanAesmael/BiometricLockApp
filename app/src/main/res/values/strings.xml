@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Biometric</string>
+    <string name="unlock_data">Unlock Data</string>
+</resources>
